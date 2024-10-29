@@ -7,6 +7,7 @@ function codificar() {
         return;
     }
 
+    
     // Paso 1: Convertir a binario usando la tabla del archivo
     const tabla = {
         'A': '00110010', 'B': '00011110', 'C': '11100101', 'D': '01100111', 'E': '11110011',
