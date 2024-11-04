@@ -72,3 +72,7 @@ input[type="text"] {
 .btn:hover {
     background-color: #5932c9;
 }
+.rectangle {
+    margin: 10px;            /* Margen entre rectángulos */
+    display: inline-block;   /* Alineación horizontal */
+}
